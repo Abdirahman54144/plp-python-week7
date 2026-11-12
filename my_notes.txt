@@ -1,0 +1,4 @@
+1. Learn Python file handling.
+2. Understand open, read, write, and append modes.
+3. Practice exception handling.
+4. Complete the week 7 assignment and push to GitHub.
